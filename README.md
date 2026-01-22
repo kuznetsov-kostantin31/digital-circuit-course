@@ -1,3 +1,1 @@
-<h1 align="center">
- <img src="./Roadmap Цифровой контур.pdf"/>
-</h1>
+[📄 Посмотреть PDF](./Roadmap%20Цифровой%20контур.pdf)
