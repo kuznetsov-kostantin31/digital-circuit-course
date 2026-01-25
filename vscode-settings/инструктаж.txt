@@ -1,0 +1,9 @@
+Здесь инструкция как поменять настройки VS Code:
+1. Открываете VS Code
+2. Зажимаете ctrl+shift+P (английская "P")
+3. Вводите поочередно "settings" и выбираете из списка "Preferences: Open User Settings (JSON)", откроется settings.json
+4. Копируете код из файла user-settings.json и вставляете в открывшийся ранее settings.json, сохраняете (ctrl+S)
+5. Для добавления шоркатов, делаете тоже самое, но вводите "shortcuts" и выбираете из списка "Preferences: Open Keyboard Shortcuts (JSON)", откроется keybinding.json
+6. Копируете все из файла user-shortcuts.json в ранее открывшийся keybinding.json, сохраняете (ctrl+S)
+
+Поздравляю! Теперь у вас есть практичная настройка VS Code
